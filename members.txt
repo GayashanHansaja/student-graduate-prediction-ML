@@ -1,0 +1,7 @@
+# Add group members in the format below (one per line)
+# StudentID, Full Name, Email
+
+2023XXXXXX, Member 1 Name, member1@email.com
+2023XXXXXX, Member 2 Name, member2@email.com
+2023XXXXXX, Member 3 Name, member3@email.com
+2023XXXXXX, Member 4 Name, member4@email.com

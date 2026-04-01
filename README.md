@@ -1,10 +1,10 @@
-# Flood Prediction ML Assignment Repository
+# Student Graduate Prediction ML Assignment Repository
 
 This repository is prepared for the **Machine Learning group assignment** and is structured to satisfy all required submission components.
 
 ## Assignment Scope
 
-- Problem domain: **Flood prediction using machine learning**
+- Problem domain: **Student graduate prediction using machine learning**
 - Learning type: **Supervised / Unsupervised (No deep learning)**
 - Team size: **4 members**
 - Required algorithm count for supervised/unsupervised: **4 distinct algorithms**
@@ -12,7 +12,7 @@ This repository is prepared for the **Machine Learning group assignment** and is
 ## Repository Structure
 
 ```text
-Flood-predection-ML/
+student-graduate-prediction-ML/
 ├── members.txt
 ├── submission.txt
 ├── README.md

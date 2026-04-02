@@ -1,7 +1,17 @@
-# Add group members in the format below (one per line)
-# StudentID, Full Name, Email
+# Members
 
-2023XXXXXX, Member 1 Name, member1@email.com
-2023XXXXXX, Member 2 Name, member2@email.com
-2023XXXXXX, Member 3 Name, member3@email.com
-2023XXXXXX, Member 4 Name, member4@email.com
+Hansaja A. M. G
+IT22171856
+it22171856@my.sliit.lk
+
+Dharmasiri I. D. N. D
+IT22254320
+it22254320@my.sliit.lk
+
+Sanjeewa P. D. L. B
+IT22629708
+it22629708@my.sliit.lk
+
+Aluthwaththa A. W. D. S. M
+IT22267290
+it22267290@my.sliit.lk

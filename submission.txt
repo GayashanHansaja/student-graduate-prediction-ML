@@ -2,7 +2,7 @@ Dataset Link:
 https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset
 
 Public GitHub Repository Link:
-https://github.com/GayashanHansaja/Flood-predection-ML
+https://github.com/GayashanHansaja/student-graduate-prediction-ML
 
-YouTube Presentation/Demo Link (max 20 minutes):
+YouTube Demo Link: 
 https://youtube.com/your-video-link

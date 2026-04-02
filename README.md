@@ -5,8 +5,7 @@ This repository is prepared for the **Machine Learning group assignment** and is
 ## Assignment Scope
 
 - Problem domain: **Student graduate prediction using machine learning**
-- Learning type: **Supervised / Unsupervised (No deep learning)**
-- Team size: **4 members**
+- Learning type: **Supervised (No deep learning)**
 - Required algorithm count for supervised/unsupervised: **4 distinct algorithms**
 
 ## Repository Structure
@@ -19,7 +18,7 @@ student-graduate-prediction-ML/
 ├── notebooks/
 │   ├── 01_member1_linear_regression.ipynb
 │   ├── 02_member2_random_forest.ipynb
-│   ├── 03_member3_svr.ipynb
+│   ├── 03_member3_decesion-tree.ipynb
 │   └── 04_member4_knn.ipynb
 ├── report/
 │   └── report_template.md

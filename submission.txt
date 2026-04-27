@@ -1,8 +1,5 @@
-Dataset Link:
-https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset
+Data set - https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
 
-Public GitHub Repository Link:
-https://github.com/GayashanHansaja/student-graduate-prediction-ML
+Repo link - https://github.com/GayashanHansaja/student-graduate-prediction-ML
 
-YouTube Demo Link: 
-https://youtube.com/your-video-link
+Youtube presentation link - https://youtu.be/8Xz7q2FPuj0
